@@ -1,2 +1,1 @@
-# netflix
-.
+https://raquelinevr.github.io/netflix/
